@@ -5,3 +5,5 @@ to run examples:
 - create the ARM_ENV (empty) file inside project root directory (same location as make-all.sh, should be the same as this file)
 - to compile single example: cd "project name" && make
 - to compile all: ./make-all.sh
+
+taken from https://www.youtube.com/playlist?list=PLGLfVvz_LVvQu9IwUcpn8KOZsOvoHx8sU
