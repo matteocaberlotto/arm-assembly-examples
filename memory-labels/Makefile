@@ -1,8 +1,8 @@
-ram_with_labels: memory.o
-	ld -o ram_with_labels memory.o
+ram_with_labels: project.o
+	ld -o ram_with_labels project.o
 
-memory.o: memory.s
-	as -o memory.o memory.s
+project.o: project.s
+	as -o project.o project.s
 
 clean:
 	rm *.o ram_with_labels
