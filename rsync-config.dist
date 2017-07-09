@@ -1,0 +1,9 @@
+
+# RSYNC_DRYRUN='--dry-run'
+RSYNC_DRYRUN=''
+BASE_SSH='ssh'
+SERVER_USER='pi-user'
+SERVER_IP='192.168.1.123'
+DEST_PATH='/home/user/path/to/project'
+# DELETE='--delete'
+DELETE=''

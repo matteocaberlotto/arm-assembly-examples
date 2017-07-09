@@ -1,0 +1,5 @@
+sync.sh
+rsync-config.sh
+rsync.exclude
+.DS_Store
+
